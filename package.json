@@ -1,0 +1,15 @@
+{
+  "name": "worldwideweather",
+  "version": "1.0.0",
+  "description": "just a simple weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
